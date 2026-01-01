@@ -1,0 +1,6 @@
+@AtlasCommerce.IdentityService.Api_HostAddress = http://localhost:5026
+
+GET {{AtlasCommerce.IdentityService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
